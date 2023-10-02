@@ -4,7 +4,7 @@
 [] Burkhalter
 [] Butler
 [] Crenshaw
-[] Dhami
+[x] Dhami
 [] Erbelding
 [] Folds
 [] Frederick
@@ -13,7 +13,7 @@
 [] Jahn
 [] Jose
 [] Joyce
-[X] Kelley
+[] Kelley
 [] Kie
 [] Mahan
 [] Marquez
